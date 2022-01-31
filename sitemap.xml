@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url>
+	<loc>https://market-geometry.ru</loc>
+	<lastmod>2022-01-26</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>1.0</priority>
+	<image:image>
+	<image:loc>https://market-geometry.ru/img/imageedit_2_8657030680.png</image:loc>
+	<image:title>imageedit_2_8657030680</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://market-geometry.ru/img/market-geometry-buy-sell-signal.png</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://market-geometry.ru/img/market-geometry-sup-res-level.png</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://market-geometry.ru/img/market-geometry-trendline.png</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://market-geometry.ru/img/market-geometry-pivot.png</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://market-geometry.ru/img/market-geometry-avsl.png</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://market-geometry.ru/img/market-geometry-settings.png</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://market-geometry.ru/img/CryptoMironIndicator.png</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://market-geometry.ru/img/CryptoMironIndicator.png</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
+</url>
+</urlset>
